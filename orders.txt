@@ -1,0 +1,2 @@
+Item: Chan, Quantity: 56, Total Price: 560
+Item: puto, Quantity: 4, Total Price: 40
